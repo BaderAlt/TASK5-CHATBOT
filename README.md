@@ -1,0 +1,1 @@
+I created a UI for a chatbot and used OPENAI API KEY to request data to answer questions in the chat. All codes work and are error-free, I just need to subscribe to the service I tried to pay and subscribe but I could not.
